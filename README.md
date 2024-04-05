@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sameer Tripathi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameertrip123&label=Profile%20views&color=0e75b6&style=flat" alt="sameertrip123" /> </p>
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **C/C++, Go, Java**
 
