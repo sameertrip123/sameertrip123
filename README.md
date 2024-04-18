@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **C/C++, Go, Java**
+- 💬 Ask me about **C++, Go, Java**
 
 - 📫 How to reach me **sameertrip123@gmail.com**
 
